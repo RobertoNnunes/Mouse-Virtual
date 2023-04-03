@@ -16,4 +16,17 @@ Execute o arquivo HandMouse.py:
 
 ## :hammer: Construindo um executável com Pyinstaller
 
-...
+Execute:
+
+      pyinstaller HandMouse.py
+      
+O pyinstaller permite a utilização de alguns parâmetros que pode ser usados para sua configuração desejada, como por exemplo:
+
+      --onefile # para gerar apenas um arquivo, o executável que encontra-se na pasta dist, que será criada.
+      --windowed # para esconder a janela do terminal
+
+Nesse caso específico pode acontecer de o pyinstaller não encontrar o mediapipe sendo necessário informar o caminho que ele deve buscar para implementar no .exe gerado. Pode-se utilizar a seguinte opção para informar onde o arquivo mediapipe deve ser buscado:
+
+     --add-data "local\onde\encontrar\mediapipe;mediapipe"
+ 
+
