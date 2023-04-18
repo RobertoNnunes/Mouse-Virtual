@@ -15,6 +15,22 @@ Após estar com os arquivos em seu computador, instale as bibliotecas necessári
 Execute o arquivo HandMouse.py:
 
       python HandMouse.py
+      
+Os movimentos do ponteiro do mouse são guiados pelo ponto verde no inicio do dedo médio. O retaângulo verde na tela delimita o tamanho da tela, porporcionando moviemtar menos a mão para abranger o tamanho total da tela.
+
+A função que permite utilizar os cliques do mouse é acionada com a posição da mão conforme imagem abaixo:
+
+![Click1](https://user-images.githubusercontent.com/81125536/232878386-8a43ab55-6bea-4289-81e2-d95fdd86a2de.png)
+
+Perceba que na posição inferior esquerda da tela aparece uma mensagem "Click Ativado", indicando que a função está ativa. No momento em que essa posição for feita novamente a função é desativada.
+
+Os cliques funcionam da seguinte forma:
+
+  * Click botão esquerdo: abaixando o dedo indicador
+  * Click botão direito: abaixando o dedo médio
+  * Pressionar: Fechando a mão
+ 
+ OBS.: A mão deve sempre estar na posição vertical em frente a câmera para funcionar corretamente conforme as imagens acima.
 
 ## :hammer: Construindo um executável com Pyinstaller
 
