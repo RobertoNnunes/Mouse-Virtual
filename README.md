@@ -1,6 +1,8 @@
 # Mouse Virtual
 
-Realize os principais movimentos do seu mouse utilizando a webcam e sua mão. 
+Realize os principais movimentos do seu mouse utilizando a webcam e sua mão.
+
+![Mao1](https://user-images.githubusercontent.com/81125536/232862028-0ae77373-80c9-4010-aad2-568b5dc86213.png)
 
 Construído utilizando-se a linguagem de programação Python com bibliotecas utilizadas para visão computacional e um módulo que integra as funções da biblioteca mediapipe o qual encontrei junto a recursos tecnológicos da [CV Zone](https://www.computervision.zone/).
 
