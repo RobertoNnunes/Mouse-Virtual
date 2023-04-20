@@ -1,6 +1,6 @@
 # Mouse Virtual
 
-Realize os principais movimentos do seu mouse utilizando a webcam e sua mão.
+Com este sistema de mouse virtual, é possível controlar o cursor do mouse com a ajuda da câmera integrada no seu computador ou webcam externa. Além disso, o usuário pode realizar cliques com gestos simples, tornando o processo de navegação mais intuitivo e natural.
 
 ![Mao1](https://user-images.githubusercontent.com/81125536/232862028-0ae77373-80c9-4010-aad2-568b5dc86213.png)
 
