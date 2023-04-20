@@ -31,6 +31,8 @@ Os cliques funcionam da seguinte forma:
   * Pressionar: Fechando a mão
  
  OBS.: A mão deve sempre estar na posição vertical em frente a câmera para funcionar corretamente conforme as imagens acima.
+ 
+ Para fechar a aplicação pessione a tecla **q** em seu teclado.
 
 ## :hammer: Construindo um executável com Pyinstaller
 
